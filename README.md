@@ -1,4 +1,4 @@
-# Introduction to Quantitative Geology (Course 54070) - Spring 2016
+# Introduction to Quantitative Geology <br /> (Course 54070) - Spring 2016
 
 ## Course meetings
 - Mondays 14-16, C108, Physicum (14.3-2.5)
