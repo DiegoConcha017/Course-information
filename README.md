@@ -17,14 +17,14 @@
 ## Textbooks
 - There are **no required textbooks** for this course. This course uses a wide range of sources for course information and the main textbooks are given below.
 - Recommended textbooks (in order of relevance):
-    - Zelle, J. (2010) Python Programming: An Introduction to Computer Science, Second edition. Franklin, Beedle & Associates.
-    - Stüwe, K. (2007) Geodynamics of the Lithosphere, Second edition. Springer.
-    - Braun, J., van der Beek, P. and Batt, G. (2006) Quantitative Thermochronology: Numerical Methods for  the Interpretation of Thermochronological Data, First edition. Cambridge University Press
-    - Taylor, J. R. (1997) An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements, Second edition. University Science Books.
+    - Zelle, J. (2010) [Python Programming: An Introduction to Computer Science](http://mcsp.wartburg.edu/zelle/python/ppics2/index.html), Second edition. Franklin, Beedle & Associates.
+    - Stüwe, K. (2007) [Geodynamics of the Lithosphere](http://wegener.uni-graz.at/publication/books/geodyn2nd/), Second edition. Springer.
+    - Braun, J., van der Beek, P. and Batt, G. (2006) [Quantitative Thermochronology: Numerical Methods for  the Interpretation of Thermochronological Data](http://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/geochemistry-and-environmental-chemistry/quantitative-thermochronology-numerical-methods-interpretation-thermochronological-data), First edition. Cambridge University Press.
+    - Taylor, J. R. (1997) [An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements](http://www.uscibooks.com/taylornb.htm), Second edition. University Science Books.
 - Optional textbooks:
-    - Pelletier, J. (2008) Quantitative Modeling of Earth Surface Processes, First edition. Springer.
-    - Trauth, M. H. (2010) MATLAB® Recipes for Earth Sciences, Third edition. Springer.
-    - Beazley, D. M. (2012) Python Essential Reference, Fourth edition. Addison-Wesley.
+    - Pelletier, J. (2008) [Quantitative Modeling of Earth Surface Processes](http://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/geomorphology-and-physical-geography/quantitative-modeling-earth-surface-processes?format=HB), First edition. Springer.
+    - Trauth, M. H. (2010) [MATLAB® Recipes for Earth Sciences](http://www.springer.com/cn/book/9783642447167), Third edition. Springer.
+    - Beazley, D. M. (2012) [Python Essential Reference](http://www.dabeaz.com/per.html), Fourth edition. Addison-Wesley.
 
 ## General description of the course
 This course aims to:
