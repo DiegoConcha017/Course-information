@@ -2,13 +2,19 @@
 
 ## Course meetings
 - Mondays 14-16, C108, Physicum (14.3-2.5)
-- Wednesdays 14-16, D211, Physicum (16.3-4.5)
+- Wednesdays 14-16 *and* 16-18, D211, Physicum (16.3-4.5)
 
 ## Instructor
 - David Whipp
 - Office: D430, Exactum
 - Email: `firstname.lastname@helsinki.fi`
 - Phone: (0)2 941 51617
+
+## Course assistant
+- Jorina Schütt
+- Office: D422, Exactum
+- Email: `firstname.lastname@helsinki.fi`
+- Phone: (0)45 1865288
 
 ## Course website
 - Main course site: [https://github.com/Intro-Quantitative-Geology](https://github.com/Intro-Quantitative-Geology)
