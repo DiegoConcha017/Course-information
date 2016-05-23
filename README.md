@@ -44,7 +44,7 @@ This course aims to:
 This course is equally divided between lectures on Mondays and computer-based laboratory exercises on Wednesdays. Monday classes will be divided into two \~45 minute lectures with a short break in the middle of class. Lectures slides will be available on Moodle on the morning prior to each lecture. Laboratory exercises will focus on applying lecture material and developing basic programming skills using the Python language. Typical exercises will involve a short introduction, followed by topical computer-based tasks. At the end of the exercises, you will be asked to submit answers to relevant questions, and possibly related plots and/or Python codes you have written/used. Students are encouraged to discuss and work together on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
 
 ## Grading
-Course grades will be given using the universal six-level grading scale from 0 to 5. Your grade will be based on (1) six laboratory exercise summary write-ups, and (2) a course project (briefly described below). The weight of each item is given below.
+Course grades will be given using the universal six-level grading scale from 0 to 5. Your grade will be based on (1) seven laboratory exercise summary write-ups, and (2) a course project (briefly described below). The weight of each item is given below.
 - 50% - Exercise write-ups (7 in total)
 - 50% - Final project report
 
