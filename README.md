@@ -96,13 +96,13 @@ The final project is based on the results you will produce in Exercises 6 and 7.
 **25.4 (Lecture)** - (I) [Basic concepts in thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/11-Basic-concepts-of-thermochronology/11-Basic-concepts-of-thermochronology.pdf), (II) [Low-temperature thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/12-Low-temperature-thermochronology/12-Low-temperature-thermochronology.pdf)
 - Readings: Braun et al., Chapters 1-3
 
-**27.4 (Lab)** - [Exercise 6: Predicting thermochronometer ages I]()
+**27.4 (Lab)** - [Exercise 6: Predicting thermochronometer ages I](https://github.com/Intro-Quantitative-Geology/Lab-exercise-6)
 - Homework: Exercise 5 write-up due
 
 **2.5 (Lecture)** - (I) [Quantifying erosion with thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/13-Quantifying-erosion-with-thermochronology/13-Quantifying-erosion-with-thermochronology.pdf)
 - Readings: Braun et al., Chapters 1-3
 
-**4.5 (Lab)** - [Exercise 7: Predicting thermochronometer ages II]()
+**4.5 (Lab)** - [Exercise 7: Predicting thermochronometer ages II](https://github.com/Intro-Quantitative-Geology/Lab-exercise-7)
 - Homework: Exercise 6 write-up due
 
 ### Final project deadline
