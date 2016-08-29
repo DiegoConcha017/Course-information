@@ -3,7 +3,7 @@
 ## Course meetings
 - Mondays 14-16, C108, Physicum (14.3-2.5)
 - Wednesdays 14-16 *and* 16-18, D211, Physicum (16.3-4.5)
-- *Work sessions on Mondays 16-18, A113, Physicum (11.4-2.5)*
+- *Work sessions Mondays 16-18, A113, Physicum (11.4-2.5)*
 
 ## Instructor
 - David Whipp
