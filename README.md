@@ -66,8 +66,8 @@ The computer exercises will focus on developing basic programming skills using t
 
 ## Grading
 Course grades will be given using the standard six-level grading scale from 0 to 5. Your grade will be based on (1) weekly laboratory exercise summary write-ups, and (2) a course project (briefly described below). The weight of each item is given below.
-- 50% - Exercise write-ups (14 in total)
-- 50% - Final project report
+- 60% - Exercise write-ups (13 total)
+- 40% - Final project report
 
 Note: Deadlines for exercise write-ups and the term project are **firm** and given in the schedule on the following pages. Exercise write-ups will be due by the start of lab on the due date. If you anticipate you will not be able to submit any of these items by the given deadline, you should let me know as early as possible and must let me know at least one day in advance. Late write-ups will be marked down 25\% per day late, so please submit it on time.
 
@@ -76,55 +76,38 @@ The final project is based on the results you will produce in the final two exer
 
 ## Course topics by week
 *Lecture content, readings and due dates are subject to change*
-### Basic concepts of quantitative geology
-**14.3 (Lecture)** - (I) [What is Quantitative Geology?](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/01-What-is-quantitative-geology/01-What-is-quantitative-geology.pdf), (II) [Essentials of computing](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/02-Essentials-of-computing/02-Essentials-of-computing.pdf)
-- Readings: Stüwe, Chapter 1; Zelle, Chapters 1 & 2
+### Period I
+[Course topics for Period I](https://github.com/Python-for-geo-people/Course-information/blob/master/README.md#course-topics-by-week)
 
-**16.3 (Lab)** - [Exercise 1: Introduction to Python and NumPy I](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-I)
-- Homework: None
+### Period II
 
-### Dealing with age data: Radioactivity and essential geostatistics
-**21.3 (Lecture)** - (I) [Common statistical methods in geoscience](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/03-Common-statistical-methods-in-geoscience/03-Common-statisical-methods-in-geoscience.pdf), (II) [What do geochronologic ages mean?](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/04-What-do-geochronological-ages-mean/04-What-do-geochronological-ages-mean.pdf)
+**31.10** - Basic concepts of quantitative geology
+- **Assignment**: - [Exercise 8: ](https://github.com/Python-for-geo-people/Intro-to-Python-I)
+- Readings: Stüwe, Chapter 1
+
+**7.11** - Dealing with age data: Radioactivity and essential geostatistics
+- **Assignment**: - [Exercise 9: ]()
 - Readings: Taylor, Chapters 2 & 4
 
-**23.3 (Lab)** - [Exercise 2: Introduction to Python and NumPy II](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-II)
-- Homework: Exercise 1 write-up due
-
-### 28.3, 30.3 - NO CLASS (Easter holiday break)
-
-### Hillslope sediment transport and heat transfer: The diffusion equation 
-**4.4 (Lecture)** - (I) [Natural diffusion: Hillslope sediment transport, Earth’s thermal field](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/05-Natural-diffusion/05-Natural-diffusion.pdf), (II) [Solving the diffusion equation](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/06-Solving-the-diffusion-equation/06-Solving-the-diffusion-equation.pdf)
+**14.11** - Hillslope sediment transport and heat transfer: The diffusion equation
+- **Assignment**: - [Exercise 10: Uplift and diffusion of the Earth’s surface]()
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 2
 
-**6.4 (Lab)** - [Exercise 3: Uplift and diffusion of the Earth’s surface](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion)
-- Homework: Exercise 2 write-up due
-
-### Fluvial incision and rock uplift: The advection/wave equation
-**11.4 (Lecture)** - (I) [Advection of the Earth’s surface: Fluvial incision and rock uplift](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/07-Advection-of-the-Earths-surface/07-Advection-of-the-Earths-surface.pdf), (II) [Solving the advection/wave equation](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/08-Solving-the-advection-equation/08-Solving-the-advection-equation.pdf)
+**21.11** - Fluvial incision and rock uplift: The advection/wave equation
+- **Assignment**: - [Exercise 11: River profile calculations]()
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 4
 
-**13.4 (Lab)** - [Exercise 4: River profile calculations](https://github.com/Intro-Quantitative-Geology/River-advection)
-- Homework: Exercise 3 write-up due
-
-### Viscous flow of rock and ice: (Non-)Newtonian flow equations
-**18.4 (Lecture)** - (I) [Rocks and ice as viscous materials](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/09-Rock-and-ice-as-viscous-materials/09-Rock-and-ice-as-viscous-materials.pdf), (II) [Equations of viscous flow](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/10-Viscous-flow-down-an-incline/10-Viscous-flow-down-an-incline.pdf)
+**28.11** - Viscous flow of rock and ice: (Non-)Newtonian flow equations
+- **Assignment**: - [Exercise 12: Glacier mechanics]()
 - Readings: Stüwe, Chapter 5; Pelletier, Chapter 6
 
-**20.4 (Lab)** - [Exercise 5: Glacier mechanics](https://github.com/Intro-Quantitative-Geology/Lab-exercise-5)
-- Homework: Exercise 4 write-up due
-
-### Quantitative thermochronology: Linking ages to processes
-**25.4 (Lecture)** - (I) [Basic concepts in thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/11-Basic-concepts-of-thermochronology/11-Basic-concepts-of-thermochronology.pdf), (II) [Low-temperature thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/12-Low-temperature-thermochronology/12-Low-temperature-thermochronology.pdf)
+**5.12** - Quantitative thermochronology: Linking ages to processes I
+- **Assignment**: - [Exercise 13: Predicting thermochronometer ages I]()
 - Readings: Braun et al., Chapters 1-3
 
-**27.4 (Lab)** - [Exercise 6: Predicting thermochronometer ages I](https://github.com/Intro-Quantitative-Geology/Lab-exercise-6)
-- Homework: Exercise 5 write-up due
-
-**2.5 (Lecture)** - (I) [Quantifying erosion with thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/13-Quantifying-erosion-with-thermochronology/13-Quantifying-erosion-with-thermochronology.pdf)
+**12.12** - Quantitative thermochronology: Linking ages to processes II
+- **Assignment**: - [Exercise 14: Predicting thermochronometer ages II]()
 - Readings: Braun et al., Chapters 1-3
-
-**4.5 (Lab)** - [Exercise 7: Predicting thermochronometer ages II](https://github.com/Intro-Quantitative-Geology/Lab-exercise-7)
-- Homework: Exercise 6 write-up due
 
 ### Final project deadline
-**13.5 - [Final project](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Final-report.md) (includes Exercise 7) due by 17.00**
+**23.12 - [Final project]() (includes Exercise 7) due by 17.00**
