@@ -86,7 +86,7 @@ The final project is based on the results you will produce in the final two exer
 
 ### Basic geostatistics
 **31.10** - 
-- **Lesson** - [Lesson 8: Basic statistical concepts for geoscientists]()
+- **Lesson** - [Lesson 8: Basic statistical concepts for geoscientists](https://github.com/Intro-Quantitative-Geology/Lesson-8-Basic-geostatistics)
 - **Assignment** - [Exercise 8: ]()
 - Readings - Taylor, Chapters 2 & 4
 
