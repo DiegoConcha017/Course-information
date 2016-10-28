@@ -83,14 +83,12 @@ The final project is based on the results you will produce in the final two exer
 [Course topics for Period I](https://github.com/Python-for-geo-people/Course-information/blob/master/README.md#course-topics-by-week)
 
 ### Period II
-
-### Basic geostatistics
-**31.10** - 
+**31.10** - Basic geostatistics I
 - **Lesson** - [Lesson 8: Basic statistical concepts for geoscientists](https://github.com/Intro-Quantitative-Geology/Lesson-8-Basic-geostatistics)
 - **Assignment** - [Exercise 8: ]()
 - Readings - Taylor, Chapters 2 & 4
 
-**7.11** - 
+**7.11** - Basic geostatistics II
 - **Assignment**: - [Exercise 9: ]()
 - Readings: Taylor, Chapters 2 & 4
 
