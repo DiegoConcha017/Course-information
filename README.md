@@ -26,7 +26,8 @@ Jump down to the [list of course topics by week](#course-topics-by-week)
 
 ## Course websites
 **Period I**:
-- Main course site:  [https://github.com/Python-for-geo-people](https://github.com/Python-for-geo-people)
+- Main course site: [https://github.com/Python-for-geo-people](https://github.com/Python-for-geo-people)
+- Pouta Blueprints site: [https://pb.geo.helsinki.fi](https://pb.geo.helsinki.fi)
 
 **Period II**:
 - Main course site:
