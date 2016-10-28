@@ -84,11 +84,13 @@ The final project is based on the results you will produce in the final two exer
 
 ### Period II
 
-**31.10** - Basic concepts of quantitative geology
-- **Assignment**: - [Exercise 8: ](https://github.com/Python-for-geo-people/Intro-to-Python-I)
-- Readings: Stüwe, Chapter 1
+### Basic geostatistics
+**31.10** - 
+- **Lesson** - [Lesson 8: Basic statistical concepts for geoscientists]()
+- **Assignment** - [Exercise 8: ]()
+- Readings - Taylor, Chapters 2 & 4
 
-**7.11** - Dealing with age data: Radioactivity and essential geostatistics
+**7.11** - 
 - **Assignment**: - [Exercise 9: ]()
 - Readings: Taylor, Chapters 2 & 4
 
