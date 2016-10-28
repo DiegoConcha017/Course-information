@@ -1,5 +1,8 @@
 # Introduction to Quantitative Geology <br /> (Course 54070) - Fall 2016
 
+## Course topics shortcut
+Jump down to the [list of course topics by week](#course-topics-by-week)
+
 ## Course meetings
 **Period I: 5.9-20.10** (Together with Automating GIS processes course)
 - Mondays 8-10 *and* 10-12, A113-A114, Physicum
