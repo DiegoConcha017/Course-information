@@ -84,14 +84,15 @@ The final project is based on the results you will produce in the final two exer
 [Course topics for Period I](https://github.com/Python-for-geo-people/Course-information/blob/master/README.md#course-topics-by-week)
 
 ### Period II
-**31.10** - Basic geostatistics I
+**31.10** - Basic geostatistics
 - **Lesson** - [Lesson 8: Basic statistical concepts for geoscientists](https://github.com/Intro-Quantitative-Geology/Lesson-8-Basic-geostatistics)
-- **Assignment** - [Exercise 8: ]()
+- **Assignment** - [Exercise 8: Coding and visualising geostatistics](https://classroom.github.com/assignment-invitations/dfe30092c1bc8f4030d081d77c33ea0a)
 - Readings - Taylor, Chapters 2 & 4
 
-**7.11** - Basic geostatistics II
-- **Assignment**: - [Exercise 9: ]()
-- Readings: Taylor, Chapters 2 & 4
+**7.11** - Comparing predictions to observed values
+- **Lesson** - [Lesson 9: Fitting data](https://github.com/Intro-Quantitative-Geology/Lesson-9-Fitting-data)
+- **Assignment**: - [Exercise 9: Comparing data to predictions](https://classroom.github.com/assignment-invitations/b8b4b3bef25e1561a876850f57f697e8)
+- Readings: Taylor, Chapters 8 & 12
 
 **14.11** - Hillslope sediment transport and heat transfer: The diffusion equation
 - **Assignment**: - [Exercise 10: Uplift and diffusion of the Earth’s surface]()
