@@ -94,8 +94,9 @@ The final project is based on the results you will produce in the final two exer
 - **Assignment**: - [Exercise 9: Comparing data to predictions](https://classroom.github.com/assignment-invitations/b8b4b3bef25e1561a876850f57f697e8)
 - Readings: Taylor, Chapters 8 & 12
 
-**14.11** - Hillslope sediment transport and heat transfer: The diffusion equation
-- **Assignment**: - [Exercise 10: Uplift and diffusion of the Earth’s surface]()
+**14.11** - The diffusion equation; Hillslope sediment transport
+- **Lesson** - [Lesson 10: Natural diffusion](https://github.com/Intro-Quantitative-Geology/Lesson-10-Natural-diffusion)
+- **Assignment**: - [Exercise 10: Hillslope diffusion](https://classroom.github.com/assignment-invitations/d95e2fbe8194920792f8c27ede68eaaf)
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 2
 
 **21.11** - Fluvial incision and rock uplift: The advection/wave equation
