@@ -100,7 +100,8 @@ The final project is based on the results you will produce in the final two exer
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 2
 
 **21.11** - Fluvial incision and rock uplift: The advection/wave equation
-- **Assignment**: - [Exercise 11: River profile calculations]()
+- **Lesson**: [Lesson 11: Advection of the Earth's surface](https://github.com/Intro-Quantitative-Geology/Lesson-11-Advection-of-Earths-surface)
+- **Assignment**: - [Exercise 11: River advection](https://classroom.github.com/assignment-invitations/da9aa9c3c493fd22f2e64bf41a65f24f)
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 4
 
 **28.11** - Viscous flow of rock and ice: (Non-)Newtonian flow equations
