@@ -118,3 +118,13 @@ The final project is based on the results you will produce in the final two exer
 
 ### Final project deadline
 **23.12 - [Final project]() (includes Exercise 7) due by 17.00**
+
+## Course content licenses
+Unless otherwise specified all materials within this GitHub organization are licensed under the following licenses:
+
+### Lesson documentation
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+### Software
+![Images/gplv3-127x51.png]<br/>
+All software in this organization is licensed under [version 3 of the GNU General Public License (GNU GPLv3)](https://www.gnu.org/licenses/gpl.html).
