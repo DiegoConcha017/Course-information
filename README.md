@@ -110,7 +110,8 @@ The final project is based on the results you will produce in the final two exer
 - Readings: Stüwe, Chapter 5; Pelletier, Chapter 6
 
 **5.12** - Quantitative thermochronology: Linking ages to processes I
-- **Assignment**: - [Exercise 13: Predicting thermochronometer ages I]()
+- **Lesson**: [Lesson 13: Basics of thermochronology](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I)
+- **Assignment**: - [Exercise 13: Quantitative thermochronology, part I](https://classroom.github.com/assignment-invitations/b1b28d52eb9cc5daef0a15519fbee66a)
 - Readings: Braun et al., Chapters 1-3
 
 **12.12** - Quantitative thermochronology: Linking ages to processes II
