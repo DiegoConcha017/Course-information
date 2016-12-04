@@ -105,7 +105,8 @@ The final project is based on the results you will produce in the final two exer
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 4
 
 **28.11** - Viscous flow of rock and ice: (Non-)Newtonian flow equations
-- **Assignment**: - [Exercise 12: Glacier mechanics]()
+- **Lesson**: [Lesson 12: Viscous flows](https://github.com/Intro-Quantitative-Geology/Exercise-12)
+- **Assignment**: - [Exercise 12: Glacier mechanics](https://classroom.github.com/assignment-invitations/29d26ef91b5e89b0cb3b6abf741e2c17)
 - Readings: Stüwe, Chapter 5; Pelletier, Chapter 6
 
 **5.12** - Quantitative thermochronology: Linking ages to processes I
