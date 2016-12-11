@@ -115,11 +115,12 @@ The final project is based on the results you will produce in the final two exer
 - Readings: Braun et al., Chapters 1-3
 
 **12.12** - Quantitative thermochronology: Linking ages to processes II
-- **Assignment**: - [Exercise 14: Predicting thermochronometer ages II]()
+- **Lesson**: [Lesson 14: Basics of thermochronology II](https://github.com/Intro-Quantitative-Geology/Lesson-14-Thermochronology-II)
+- **Assignment**: - [Exercise 14: Quantitative thermochronology, part II](https://classroom.github.com/assignment-invitations/ff1c3f3b548989b15b3c41a2e249897b)
 - Readings: Braun et al., Chapters 1-3
 
 ### Final project deadline
-**23.12 - [Final project]() (includes Exercise 7) due by 17.00**
+**23.12 - [Final project](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I/blob/master/Lesson/Final-report.md) (includes Exercise 14) due by 17.00**
 
 ## Course content licenses
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>&nbsp;
