@@ -86,37 +86,37 @@ The final project is based on the results you will produce in the final two exer
 ### Period II
 **31.10** - Basic geostatistics
 - **Lesson** - [Lesson 8: Basic statistical concepts for geoscientists](https://github.com/Intro-Quantitative-Geology/Lesson-8-Basic-geostatistics)
-- **Assignment** - [Exercise 8: Coding and visualising geostatistics](https://classroom.github.com/assignment-invitations/dfe30092c1bc8f4030d081d77c33ea0a)
+- **Assignment** - [Exercise 8: Coding and visualising geostatistics](https://github.com/Intro-Quantitative-Geology/Exercise-8)
 - Readings - Taylor, Chapters 2 & 4
 
 **7.11** - Comparing predictions to observed values
 - **Lesson** - [Lesson 9: Fitting data](https://github.com/Intro-Quantitative-Geology/Lesson-9-Fitting-data)
-- **Assignment**: - [Exercise 9: Comparing data to predictions](https://classroom.github.com/assignment-invitations/b8b4b3bef25e1561a876850f57f697e8)
+- **Assignment**: - [Exercise 9: Comparing data to predictions](https://github.com/Intro-Quantitative-Geology/Exercise-9)
 - Readings: Taylor, Chapters 8 & 12
 
 **14.11** - The diffusion equation; Hillslope sediment transport
 - **Lesson** - [Lesson 10: Natural diffusion](https://github.com/Intro-Quantitative-Geology/Lesson-10-Natural-diffusion)
-- **Assignment**: - [Exercise 10: Hillslope diffusion](https://classroom.github.com/assignment-invitations/d95e2fbe8194920792f8c27ede68eaaf)
+- **Assignment**: - [Exercise 10: Hillslope diffusion](https://github.com/Intro-Quantitative-Geology/Exercise-10)
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 2
 
 **21.11** - Fluvial incision and rock uplift: The advection/wave equation
 - **Lesson**: [Lesson 11: Advection of the Earth's surface](https://github.com/Intro-Quantitative-Geology/Lesson-11-Advection-of-Earths-surface)
-- **Assignment**: - [Exercise 11: River advection](https://classroom.github.com/assignment-invitations/da9aa9c3c493fd22f2e64bf41a65f24f)
+- **Assignment**: - [Exercise 11: River advection](https://github.com/Intro-Quantitative-Geology/Exercise-11)
 - Readings: Stüwe, Chapter 3; Pelletier, Chapter 4
 
 **28.11** - Viscous flow of rock and ice: (Non-)Newtonian flow equations
 - **Lesson**: [Lesson 12: Viscous flows](https://github.com/Intro-Quantitative-Geology/Exercise-12)
-- **Assignment**: - [Exercise 12: Glacier mechanics](https://classroom.github.com/assignment-invitations/29d26ef91b5e89b0cb3b6abf741e2c17)
+- **Assignment**: - [Exercise 12: Glacier mechanics](https://github.com/Intro-Quantitative-Geology/Exercise-12)
 - Readings: Stüwe, Chapter 5; Pelletier, Chapter 6
 
 **5.12** - Quantitative thermochronology: Linking ages to processes I
 - **Lesson**: [Lesson 13: Basics of thermochronology](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I)
-- **Assignment**: - [Exercise 13: Quantitative thermochronology, part I](https://classroom.github.com/assignment-invitations/b1b28d52eb9cc5daef0a15519fbee66a)
+- **Assignment**: - [Exercise 13: Quantitative thermochronology, part I](https://github.com/Intro-Quantitative-Geology/Exercise-13)
 - Readings: Braun et al., Chapters 1-3
 
 **12.12** - Quantitative thermochronology: Linking ages to processes II
 - **Lesson**: [Lesson 14: Basics of thermochronology II](https://github.com/Intro-Quantitative-Geology/Lesson-14-Thermochronology-II)
-- **Assignment**: - [Exercise 14: Quantitative thermochronology, part II](https://classroom.github.com/assignment-invitations/ff1c3f3b548989b15b3c41a2e249897b)
+- **Assignment**: - [Exercise 14: Quantitative thermochronology, part II](https://github.com/Intro-Quantitative-Geology/Exercise-14)
 - Readings: Braun et al., Chapters 1-3
 
 ### Final project deadline
